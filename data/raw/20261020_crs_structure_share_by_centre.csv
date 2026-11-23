@@ -1,0 +1,22 @@
+centre_iso3,class,s_low,s_central,s_high
+CHE,European private banking,0.15,0.30,0.50
+GBR,Custody and wealth hub,0.07,0.17,0.33
+HKG,Asian private banking,0.04,0.11,0.25
+SGP,Asian private banking,0.06,0.16,0.30
+LUX,European private banking,0.09,0.21,0.37
+JEY,Trust/company hub,0.20,0.36,0.55
+CYM,Trust/company hub,0.25,0.45,0.65
+BHR,Bank-centred,0.01,0.04,0.10
+ARE,Bank-centred,0.01,0.05,0.12
+BHS,Trust/company hub,0.15,0.33,0.55
+PAN,Structure domicile; local banks bank-centred,0.03,0.09,0.22
+MAC,Bank-centred,0.005,0.02,0.06
+IMN,Trust/company hub,0.20,0.30,0.45
+GGY,Trust/company hub,0.18,0.33,0.55
+MYS,Bank-centred,0.01,0.05,0.12
+CYP,Corporate-structure hub,0.04,0.11,0.26
+BMU,Trust/company hub,0.20,0.40,0.65
+AUT,European banking (FGMZ centre until 2016),0.07,0.15,0.25
+BEL,European banking (FGMZ centre until 2016),0.07,0.15,0.25
+CUW,Trust/company hub (until 2016),0.15,0.30,0.50
+ANT,Trust/company hub (until 2011),0.15,0.30,0.50

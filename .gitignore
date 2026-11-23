@@ -1,0 +1,10 @@
+# written by the pipeline
+data/processed/
+data/final/
+output/
+src/*.log
+*.log
+# system and Python
+.DS_Store
+__pycache__/
+*.pyc
